@@ -1,0 +1,39 @@
+# Cache e file di sistema di Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.toast
+.cache/
+.pytest_cache/
+
+# File di sistema operativi
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Configurazione dell'IDE (VS Code, PyCharm, ecc.)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Dati multimediali e sorgenti (Footage)
+# Impedisce il caricamento di file video/audio pesanti su GitHub
+data/
+
+# Output generati dall'AI e bozze locali
+output_drafts/

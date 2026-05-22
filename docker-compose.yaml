@@ -1,0 +1,12 @@
+services:
+  capcut_agent:
+    build: .
+    container_name: capcut_automation_sandbox
+    tty: true          
+    stdin_open: true    
+    volumes:
+      - ./src:/app/src
+      - ./data:/app/footage:ro
+      - ./output_drafts:/app/capcut_output
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}

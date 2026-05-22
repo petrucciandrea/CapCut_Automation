@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1", 
+        "nome": "Prinz", 
+        "settore": "Distribuzione Food & Beverage", 
+        "target": ["B2B", "Locali", "Ristoranti"],
+        "stile_comunicazione": {
+            "tono": "Istituzionale ma dinamico",
+            "ritmo_editing": "Fluido e professionale",
+            "musica_ideale": "Corporate moderna, elettronica leggera"
+        },
+        "core_business": {
+            "punti_forza": ["Leader in Toscana", "Qualità del prodotto", "Affidabilità"],
+            "elementi_visivi_chiave": ["Logistica", "Magazzino", "Varietà catalogo prodotti"]
+        }
+    },
+    {
+        "id": "2", 
+        "nome": "Collins", 
+        "settore": "Pub / Nightlife", 
+        "target": ["Studenti esteri", "Giovani", "Universitari"],
+        "stile_comunicazione": {
+            "tono": "Fresco, giovanile, notturno, internazionale",
+            "ritmo_editing": "Ritmato, serrato, transizioni dinamiche",
+            "musica_ideale": "Pop trend, Hip-hop, Elettronica da club"
+        },
+        "core_business": {
+            "punti_forza": ["Atmosfera serale", "Cocktail", "Integrazione culturale"],
+            "elementi_visivi_chiave": ["Dettaglio drink", "Locale affollato", "Interviste veloci", "Luci soffuse e neon"]
+        }
+    },
+    {
+        "id": "3", 
+        "nome": "Tavernetta", 
+        "settore": "Ristorante Tradizionale", 
+        "target": ["Amanti della carne", "Turisti", "Famiglie", "Clientela locale"],
+        "stile_comunicazione": {
+            "tono": "Caldo, accogliente, legato al territorio",
+            "ritmo_editing": "Rilassato ma coinvolgente, focus sui dettagli dei movimenti",
+            "musica_ideale": "Acustica, folk leggero, suoni d'ambiente amplificati (ASMR)"
+        },
+        "core_business": {
+            "punti_forza": ["Tradizione Toscana", "Cottura alla brace", "Selezione macelleria"],
+            "elementi_visivi_chiave": ["Bistecca sulla griglia", "Taglio della carne", "Fuoco vivo", "Fumo e reazione di Maillard"]
+        }
+    },
+    {
+        "id": "4", 
+        "nome": "Lorenzo de' Medici", 
+        "settore": "Ristorante Pizzeria", 
+        "target": ["Famiglie", "Clienti celiaci", "Turisti"],
+        "stile_comunicazione": {
+            "tono": "Familiare, autentico, inclusivo",
+            "ritmo_editing": "Equilibrato, storytelling incentrato sulle persone",
+            "musica_ideale": "Musica italiana classica rivisitata, acustica"
+        },
+        "core_business": {
+            "punti_forza": ["Tradizione fiorentina", "Ambiente familiare", "Menu Gluten-Free sicuro"],
+            "elementi_visivi_chiave": ["Stesura della pizza", "Uscita dal forno", "Tavolate conviviali", "Certificazioni o dettagli cucina separata"]
+        }
+    },
+    {
+        "id": "5", 
+        "nome": "Caffè Dogali", 
+        "settore": "Bar Storico / Caffetteria", 
+        "target": ["Clientela fidelizzata", "Lavoratori", "Amanti della colazione/aperitivo tradizionale"],
+        "stile_comunicazione": {
+            "tono": "Professionale, caloroso, storico",
+            "ritmo_editing": "Classico, pulito, senza fronzoli o transizioni digitali eccessive",
+            "musica_ideale": "Jazz, Lo-Fi rilassato, Indie-pop tranquillo"
+        },
+        "core_business": {
+            "punti_forza": ["Storicità del locale", "Artigianalità", "Qualità della materia prima"],
+            "elementi_visivi_chiave": ["Estrazione del caffè", "Dettaglio schiuma cappuccino", "Interazione bancone-cliente", "Insegna storica"]
+        }
+    },
+    {
+        "id": "6", 
+        "nome": "La Schiacciateria", 
+        "settore": "Schiacciateria", 
+        "target": ["Studenti", "Lavoratori in pausa pranzo", "Turisti di passaggio"],
+        "stile_comunicazione": {
+            "tono": "Simpatico, ironico, informale, molto pop",
+            "ritmo_editing": "Molto rapido, ganci (hook) d'impatto, uso di trend sonori",
+            "musica_ideale": "Trend virali di TikTok/Instagram, musica energica"
+        },
+        "core_business": {
+            "punti_forza": ["Simpatia dello staff", "Qualità del prodotto (Schiacciata ripiena)", "Velocità"],
+            "elementi_visivi_chiave": ["Schiacciata aperta a metà che fuma", "Farcitura abbondante", "Sorriso del personale", "Suono della crosta croccante (Crunch)"]
+        }
+    }
+]
